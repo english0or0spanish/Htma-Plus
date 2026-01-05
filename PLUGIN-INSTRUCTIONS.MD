@@ -21,4 +21,4 @@
 ## to plugin.json
 ## Step 4. add your script to the plugin folder and code it (PYTHON ONLY)
 
-### Note: rts stands for return to script which if enabled should run the scripts defined with all the TMP files it creates containing data
+#### Note: rts stands for return to script which if enabled should run the scripts defined with all the TMP files it creates containing data
