@@ -1,0 +1,13 @@
+{
+    "name": "Plugin Manager",
+    "type": "js",
+    "network": true,
+    "rts": true,
+    "args": [
+    ],
+    "scripts": [
+        "plugin.py"
+    ],
+    "custom": {
+    }
+}
